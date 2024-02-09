@@ -5,4 +5,9 @@ img.background {
     top: 0;
     left: 0;
     z-index: -1;
+    opacity: 0.6;
+}
+
+.container-lg > h1 {
+    display: none;
 }
