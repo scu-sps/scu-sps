@@ -23,7 +23,7 @@
 
 ![SCU SCDI](/assets/img/scdi1.jpg){:.background}
 
-<div id="ad_content" markdown=1 >
+<div class="ad_content" markdown=1 >
     Save the date
 
     APRIL 19th - 21st
