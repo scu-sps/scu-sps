@@ -28,5 +28,5 @@ img.background {
 }
 
 .highlight {
-    background-color: unset;
+    background-color: unset !important;
 }
