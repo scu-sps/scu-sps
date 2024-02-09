@@ -2,10 +2,12 @@
 
 ![SCU SCDI](/assets/img/scdi1.jpg){:.background}
 
-Save the date
+<div id="ad_content" markdown=1 >
+    Save the date
 
-APRIL 19th - 21st
+    APRIL 19th - 21st
 
-SPS Zone 18 Meeting:
+    SPS ZONE 18 MEETING
 
-SANTA CLARA UNIVERSITY
+    SANTA CLARA UNIVERSITY
+</div>
