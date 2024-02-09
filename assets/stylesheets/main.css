@@ -11,3 +11,8 @@ img.background {
 .container-lg > h1 {
     display: none;
 }
+
+.ad-content {
+    text-align: center;
+    font-size: large;
+}
