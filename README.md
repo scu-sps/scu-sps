@@ -3,9 +3,9 @@
 ![SCU SCDI](/assets/img/scdi1.jpg){:.background}
 
 <div class="ad_content" markdown=1 >
-    Save the date
+    SAVE THE DATE
 
-    APRIL 19th - 21st
+    APRIL 19 - 21, 2024
 
     SPS ZONE 18 MEETING
 

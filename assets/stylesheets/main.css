@@ -22,4 +22,11 @@ img.background {
     top: 50%;
     left: 50%;
     width: 40%;
+    border-radius: 25px;
+    background-color: #b30738;
+    color: white;
+}
+
+.highlight {
+    background-color: unset;
 }
