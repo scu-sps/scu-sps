@@ -15,4 +15,11 @@ img.background {
 .ad_content {
     text-align: center;
     font-size: large;
+    font-family: monospace;
+    font-weight: bolder;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    width: 40%;
 }
